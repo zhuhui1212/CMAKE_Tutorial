@@ -1,2 +1,2 @@
 # CMAKE_Tutorial
-A tutorial for YangFengtuo and ZhuHhui!
+A tutorial for YangFengtuo and ZhuHui!
